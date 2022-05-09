@@ -1,0 +1,19 @@
+body{background-color :   #F96CFF;}
+.intro{background-color:#674AB3;}
+.edu{background-color :#A348A6;}
+.Skills{background-color: #9F63C4;}
+.end{background-color: #9075D8;}
+.hr{background-color: #CEA2D7;}
+        h1{color: #36AE7C;}
+        h2{color:#F9D923;}
+        hr{background-color: #317773 ;
+        color: red;
+        border-width: 20px;
+        border-color:#F9D923 ;
+        border-style: none;
+        border-top-style: dotted;;
+        width:20%;
+        }
+
+
+
